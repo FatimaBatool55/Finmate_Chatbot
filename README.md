@@ -1,6 +1,7 @@
 # FinMate AI
 
 FinMate AI is a personal finance assistant web application built with Next.js. It helps users track expenses, set savings goals, and get quick answers to everyday finance questions through a chat interface powered by a large language model.
+
  Check it out here: https://finmate-chatbot.vercel.app/
 
 ## Overview
