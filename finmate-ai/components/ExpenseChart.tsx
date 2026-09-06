@@ -22,7 +22,7 @@ export default function ExpenseChart({ data, totalSpent }: Props) {
             cx="50%"
             cy="50%"
             outerRadius={100}
-            label={(entry) => `${entry.category}: ${entry.percentage}%`}
+            label={(entry: { category: string; percentage: string }) => `${entry.category}: ${entry.percentage}%`}
           >
             {data.map((_, index) => (
               <Cell key={index} fill={COLORS[index % COLORS.length]} />
