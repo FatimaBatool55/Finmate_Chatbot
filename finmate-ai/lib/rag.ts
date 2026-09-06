@@ -1,0 +1,1 @@
+export { retrieveRelevantDocs } from "./knowledgeBase";
