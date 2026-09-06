@@ -42,40 +42,6 @@ The components directory contains reusable UI pieces such as the chat window, si
 
 The lib directory contains the core logic: the Supabase client and server helpers, the Groq model configuration, the conversation graph that classifies intent and generates responses, and a small finance knowledge base used to ground the assistant's answers.
 
-## Getting Started
-
-Install dependencies.
-
-```
-npm install
-```
-
-Create a .env.local file in the project root and add the following environment variables.
-
-```
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-GROQ_API_KEY=your_groq_api_key
-```
-
-Run the development server.
-
-```
-npm run dev
-```
-
-Open http://localhost:3000 in your browser to use the app.
-
-## Building for Production
-
-```
-npm run build
-npm run start
-```
-
-## Live Demo
-
-
 
 ## Disclaimer
 
