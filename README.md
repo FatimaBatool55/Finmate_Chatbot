@@ -5,7 +5,7 @@ FinMate AI is a personal finance assistant web application built with Next.js. I
 
 ## Overview
 
-The application combines a simple expense tracking dashboard with an AI chat assistant. Users can log their spending, upload expense data from a CSV file, monitor progress toward savings goals, and ask the assistant questions about budgeting, credit scores, saving strategies, and other common personal finance topics. The assistant classifies each message and pulls relevant information from a built in knowledge base before generating a response, so answers stay short, direct, and grounded in accurate information.
+The application combines a simple expense tracking dashboard with an AI chat assistant. Users can log their spending, upload expense data from a CSV Excel file or manual entry, monitor progress toward savings goals, and ask the assistant questions about budgeting, credit scores, saving strategies, and other common personal finance topics. The assistant classifies each message and pulls relevant information from a built in knowledge base before generating a response, so answers stay short, direct, and grounded in accurate information.
 
 ## Features
 
